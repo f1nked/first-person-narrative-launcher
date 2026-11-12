@@ -1,0 +1,7 @@
+#include <Windows.h>
+1 ICON "@CMAKE_CURRENT_SOURCE_DIR@/assets/launcher/FirstPersonNarrativeLauncher.ico"
+101 RCDATA "@CMAKE_CURRENT_BINARY_DIR@/LauncherDefault.ini"
+102 RCDATA "@CMAKE_CURRENT_SOURCE_DIR@/assets/launcher/logo.png"
+103 RCDATA "@CMAKE_CURRENT_SOURCE_DIR@/assets/launcher/Inter-Medium.ttf"
+105 RCDATA "@CMAKE_CURRENT_SOURCE_DIR@/assets/launcher/Inter-SemiBold.ttf"
+InterFontLicense RCDATA "@CMAKE_CURRENT_SOURCE_DIR@/assets/launcher/Inter-OFL.txt"
